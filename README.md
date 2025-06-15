@@ -1,4 +1,4 @@
-![IMG_2043](https://github.com/user-attachments/assets/c3af1a7d-88ff-4301-a8c2-7491db5ad4a7)# TalkYT - Chrome Extension for Chatting with YouTube Videos
+# TalkYT - Chrome Extension for Chatting with YouTube Videos
 
 TalkYT is a Chrome extension that allows users to interact with YouTube videos using natural language. By integrating transcript analysis with AI models, TalkYT enables students, developers, and learners to ask questions about a video and receive timestamped answers and extracted content, such as code snippets or formulas. The extension is powered by LangChain and Google Gemini (via the Generative AI SDK).
 
@@ -99,10 +99,10 @@ Changes are well-documented  <br>
 New features include relevant updates to the README (if applicable)   <br>
 
 ## Photos
-![IMG_2040](https://github.com/user-attachments/assets/12ce649d-33d2-4fdb-b23d-da7958cf90bc)  <br>
-![IMG_2041](https://github.com/user-attachments/assets/3ea932a3-dcb9-4dd1-a18e-6b0645920c8b)  <br>
-![IMG_2042](https://github.com/user-attachments/assets/20d8cd93-f314-487d-9172-6a489efa6017)  <br>
-![IMG_2043](https://github.com/user-attachments/assets/d89f4e37-5f3f-4189-8e65-fb67aebdc235)  <br>
+![IMG_2040](https://github.com/user-attachments/assets/12ce649d-33d2-4fdb-b23d-da7958cf90bc)  <br> <br>
+![IMG_2041](https://github.com/user-attachments/assets/3ea932a3-dcb9-4dd1-a18e-6b0645920c8b)  <br> <br>
+![IMG_2042](https://github.com/user-attachments/assets/20d8cd93-f314-487d-9172-6a489efa6017)  <br> <br>
+![IMG_2043](https://github.com/user-attachments/assets/d89f4e37-5f3f-4189-8e65-fb67aebdc235)  <br> <br>
 
 
 
